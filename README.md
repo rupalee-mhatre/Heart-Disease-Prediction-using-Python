@@ -1,4 +1,6 @@
 # Heart-Disease-Prediction-using-Python
+<img width="768" height="678" alt="image" src="https://github.com/user-attachments/assets/48b6a309-2318-42fe-9c79-85081053a51d" />
+
 # ❤️ Heart Disease Prediction using Python
 
 ## 📌 Project Overview
