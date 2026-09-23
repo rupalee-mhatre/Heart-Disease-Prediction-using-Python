@@ -133,6 +133,7 @@ Performance was evaluated using:
 
 The objective was to identify the classifier that achieved the best predictive accuracy for heart disease classification.
 
+
 ---
 
 ## 📊 Results
@@ -160,8 +161,6 @@ The evaluation highlights how different classification techniques perform on the
 
 ## 🚀 Future Improvements
 
-- Perform hyperparameter tuning
-- Apply cross-validation
 - Investigate feature importance
 - Evaluate additional ensemble models (e.g., XGBoost)
 - Deploy the best-performing model as a web application using Streamlit or Flask
@@ -180,8 +179,22 @@ The evaluation highlights how different classification techniques perform on the
 
 - Feature distributions
 - Confusion matrix
+- 
+-  <img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/479ea281-cf0b-4f64-8862-3301fd3956ce" />
+
+  <img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/8d5b9639-fb3d-495b-b162-e01970a79d5d" />
+
+  <img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/0bbf77ac-082a-4b2e-9463-e1a71b40d5a0" />
+  
+  <img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/c67d02ec-38f4-4beb-82f0-e14db2dab6b0" />
+
+  <img width="653" height="547" alt="image" src="https://github.com/user-attachments/assets/fd312a58-2230-4276-a9bb-6fd872b574e4" />
+
+  <img width="653" height="547" alt="image" src="https://github.com/user-attachments/assets/740e4c99-e673-4810-bb01-627b34fba2ab" />
+  
 - Model comparison chart
-  <img width="1376" height="502" alt="image" src="https://github.com/user-attachments/assets/3d56f9ad-8401-470c-b96d-d635f4c729a5" />
+
+ <img width="1066" height="547" alt="image" src="https://github.com/user-attachments/assets/583f7e43-0032-4b7c-ae16-579507e1d48c" />
 
 
 ---
