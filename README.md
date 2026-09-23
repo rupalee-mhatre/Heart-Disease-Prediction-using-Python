@@ -178,6 +178,14 @@ The evaluation highlights how different classification techniques perform on the
   <img width="995" height="535" alt="image" src="https://github.com/user-attachments/assets/aa089ea1-cf4c-4b75-8362-b9e762a9b9d7" />
 
 - Feature distributions
+-  <img width="975" height="623" alt="image" src="https://github.com/user-attachments/assets/76544a0c-879b-41af-8060-52ab51f9fe27" />
+
+  <img width="928" height="621" alt="image" src="https://github.com/user-attachments/assets/331a15c5-f3bb-4eb1-b2a1-77d412331d4e" />
+
+  <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/bc4f7755-15ba-4780-8b61-09cd9905b02f" />
+
+
+
 - Confusion matrix
 - 
 -  <img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/479ea281-cf0b-4f64-8862-3301fd3956ce" />
