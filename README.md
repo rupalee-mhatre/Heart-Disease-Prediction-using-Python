@@ -170,7 +170,7 @@ The evaluation highlights how different classification techniques perform on the
 
 ## 📷 Project Screenshots
 
-Include screenshots of:
+
 
 - Dataset overview
   <img width="1327" height="307" alt="image" src="https://github.com/user-attachments/assets/c244e704-e09b-4010-9719-aa14aa8f67a8" />
